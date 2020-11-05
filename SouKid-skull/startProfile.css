@@ -1,0 +1,133 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* Tons de Pele*/
+.tonalidades-pele {
+    width: 44px;
+    height: 44px;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 2.5px rgba(187, 154, 154, 0.747);
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    align-content: space-between;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.mark-check {
+    background-size: 44px 44px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+}
+/* Personagem */
+.painel-avatar {
+    /* background-color: #fbda61;
+    background-image: linear-gradient(135deg, #fbda61 0%, #ff5acd 100%); */
+    background-color: rgb(145, 176, 243);
+    /* background-image: linear-gradient(114deg, #ccac5b 0%, #80d0c7 100%); */
+    height: 100vh !important;
+}
+.nome-avatar h1 {
+    font-size: 30px;
+    color: black;
+}
+#back00,
+#back01{
+    width: 20vw;
+    height: auto;
+    position: absolute;
+    z-index: 1;
+    -webkit-box-reflect: below -40px radial-gradient(transparent , rgb(0, 0, 0));
+}
+#img-avatar,
+#img-avatar2 {
+    width: 20vw;
+    height: auto;
+    -webkit-box-reflect: below -40px radial-gradient(transparent, #0004);
+}
+#img-avatar:hover {
+    border-radius: 25%;
+    cursor: pointer;
+    animation: animate 5s linear infinite;
+}
+#img-avatar2:hover {
+    border-radius: 25%;
+    cursor: pointer;
+    animation: animate2 5s linear infinite;
+}
+@keyframes animate {
+    18.1%,
+    20.1%,
+    30%,
+    50%,
+    60.1%,
+    65%,
+    80.1%,
+    90%,
+    92.1%,
+    100% {
+        box-shadow: 0 0 10px #80d0c7, 0 0 20px #80d0c7, 0 0 40px #80d0c7, 0 0 80px #80d0c7, 0 0 160px #80d0c7;
+    }
+}
+@keyframes animate2 {
+    18.1%,
+    20.1%,
+    30%,
+    50%,
+    60.1%,
+    65%,
+    80.1%,
+    90%,
+    92.1%,
+    100% {
+        box-shadow: 0 0 10px #80d0c7, 0 0 20px #80d0c7, 0 0 40px #80d0c7, 0 0 80px #80d0c7, 0 0 160px #80d0c7;
+    }
+}
+
+@media (max-width: 320px) {
+    .tonalidades-pele {
+        width: 44px;
+        height: 44px;
+        border-radius: 4px;
+        display: flex;
+        flex-direction: row;
+        justify-items: center;
+        align-items: center;
+        align-content: space-between;
+        justify-content: space-between;
+    }
+}
+@media (max-width: 480px) {
+    .tonalidades-pele {
+        width: 44px;
+        height: 44px;
+        border-radius: 4px;
+        display: flex;
+        flex-direction: row;
+        justify-items: center;
+        align-items: center;
+        align-content: space-between;
+        justify-content: space-between;
+    }
+}
+@media (max-width: 600px) {
+    .tonalidades-pele {
+        width: 44px;
+        height: 44px;
+        border-radius: 4px;
+        display: flex;
+        flex-direction: row;
+        justify-items: center;
+        align-items: center;
+        align-content: space-between;
+        justify-content: space-between;
+    }
+}
