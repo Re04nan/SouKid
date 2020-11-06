@@ -1,0 +1,58 @@
+.campo-cadastro {
+	background-color: #a749ff;
+}
+
+p {
+	padding-bottom: 16px;
+	font-size: 35px;
+	text-align: center;
+}
+
+.box-txt {
+	width: 380px;
+	height: 33px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+
+label {
+	font-size: 15px;
+	padding: 6px;
+}
+
+#btn_enviar {
+	width: 380px;
+	height: 35px;
+	border: none;
+	color: white;
+	background-color: #4B0082;
+	border-radius: 4px;
+	cursor: pointer;
+	font-weight: bolder;
+}
+
+a {
+	text-align: center;
+	color: blue;
+	margin-top: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
