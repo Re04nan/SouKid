@@ -66,12 +66,14 @@ nav .right{
     text-align: center;
     font: 500 15px Roboto, sans-serif;
 }
+
 figcaption{
     margin-top: 5px;
     text-align: right;
     color: white;
 
 }
+
 figcaption a{
     text-decoration: none;
     color: white;
@@ -100,12 +102,32 @@ footer h3{
     font: 700 35px Roboto, sans-serif;
 }
 
+.icone {
+    width: 35px;
+    height: 35px;
+    margin-top: 5px;
+    margin-right: 5px;
+    transition: all 0.2s ease-out;
+}
+
 .equipe{
     margin: 1em 0;
 }
 
-.icone {
+.icone-equipe {
     width: 20px;
     height: 20px;
     margin-top: 5px;
+    margin-right: 3px;
+    transition: all 0.2s ease-out;
+}
+
+.icone:hover, .icone-equipe:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 5px rgba(0, 0 , 0, 0.7);
+}
+
+#assinatura-footer{
+    margin-top: 10px;
+    font: 400 11pt Roboto, sans-serif;
 }

@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="./css/homepage.css">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/homepage.js"></script>
     <title>Sou Kid</title>
 </head>
 
@@ -24,25 +25,25 @@
                     <div class="carousel-item active">
                         <figure>
                             <img src="./img/bemVindo.png" class="d-block w-100" alt="Bem Vindo(a)" title="Bem Vindo(a)">
-                            <figcaption>Designer by<a href="https://www.instagram.com/ruth_cherrys/" target="_blank"> @ruth_cherrys <img src="./img/instagram.svg"></a></figcaption>
+                            <figcaption>Design by<a href="https://www.instagram.com/ruth_cherrys/" target="_blank"> @ruth_cherrys <img src="./img/instagram.svg"></a></figcaption>
                         </figure>
                     </div>
                     <div class="carousel-item">
                         <figure>
                             <img src="./img/partesRecompensa.png" class="d-block w-100" alt="Prêmios" title="Prêmios">
-                            <figcaption>Designer by<a href="https://www.instagram.com/ruth_cherrys/" target="_blank"> @ruth_cherrys <img src="./img/instagram.svg"></a></figcaption>
+                            <figcaption>Design by<a href="https://www.instagram.com/ruth_cherrys/" target="_blank"> @ruth_cherrys <img src="./img/instagram.svg"></a></figcaption>
                         </figure>
                     </div>
                     <div class="carousel-item">
                         <figure>
                             <img src="./img/semaforo.png" class="d-block w-100" alt="Jogos" title="Jogos">
-                            <figcaption>Designer by<a href="https://www.instagram.com/ruth_cherrys/" target="_blank"> @ruth_cherrys <img src="./img/instagram.svg"></a></figcaption>
+                            <figcaption>Design by<a href="https://www.instagram.com/ruth_cherrys/" target="_blank"> @ruth_cherrys <img src="./img/instagram.svg"></a></figcaption>
                         </figure>
                     </div>
                     <div class="carousel-item">
                         <figure>
                             <img src="./img/avatar.png" class="d-block w-100" alt="Personagens" title="Personagens">
-                            <figcaption>Designer by<a href="https://www.instagram.com/ruth_cherrys/" target="_blank"> @ruth_cherrys <img src="./img/instagram.svg"></a></figcaption>
+                            <figcaption>Design by<a href="https://www.instagram.com/ruth_cherrys/" target="_blank"> @ruth_cherrys <img src="./img/instagram.svg"></a></figcaption>
                         </figure>
                     </div>
                 </div>
@@ -64,6 +65,19 @@
                 <div class="col-lg-3 col-md-4 col-sm-12">
                     <h3>Se conecte conosco!</h3>
                 </div>
+                <div class="col-lg-2 col-md-3 col-sm-12">
+                    <a href="#">
+                        <img class="icone" src="./img/facebook.png" />
+                    </a>                            
+                
+                    <a href="#">
+                        <img class="icone" src="./img/instagram.png" />
+                    </a>                            
+                    
+                    <a href="#">
+                        <img class="icone" src="./img/twitter.png" />
+                    </a>                            
+                </div>
             </div>
 
             <div class="row">
@@ -71,7 +85,7 @@
                     <img src="./img/amanda_regina.jpeg">
                     <span>Amanda Regina
                         <br />Desenvolvedora Jr.</span>
-                    <a href="http://linkedin.com/in/amandaregina"><img class="icone"
+                    <a href="http://linkedin.com/in/amandaregina"><img class="icone-equipe"
                             src="./img/linkedin.png" /></a>
                 </div>
 
@@ -79,30 +93,30 @@
                     <img src="./img/daniela-lopes.jpg">
                     <span>Daniela Lopes
                         <br />Desenvolvedora Jr.</span>
-                    <a href="https://www.linkedin.com/in/danielablopess"><img class="icone"
+                    <a href="https://www.linkedin.com/in/danielablopess"><img class="icone-equipe"
                             src="./img/linkedin.png" /></a>
                 </div>
 
                 <div class="col-lg-4 col-md-4 col-sm-12 equipe">
-                    <img src="./img/personIcon.jpg">
+                    <img src="./img/isaque-gabriel.jpg">
                     <span>Isaque Gabriel
                         <br />Desenvolvedor Jr.</span>
-                    <a href="http://linkedin.com/in/isaque-gabriel-6203951a1"><img class="icone"
+                    <a href="http://linkedin.com/in/isaque-gabriel-6203951a1"><img class="icone-equipe"
                             src="./img/linkedin.png" /></a>
                 </div>
 
                 <div class="col-lg-4 col-md-4 col-sm-12 equipe">
-                    <img src="./img/personIcon.jpg">
+                    <img src="./img/leandro-souza.jpg">
                     <span>Leandro de Souza
                         <br />Desenvolvedor Jr.</span>
-                    <a href="#"><img class="icone" src="./img/linkedin.png" /></a>
+                    <a href="#"><img class="icone-equipe" src="./img/linkedin.png" /></a>
                 </div>
 
                 <div class="col-lg-4 col-md-4 col-sm-12 equipe">
                     <img src="./img/renan_marques.jpeg">
                     <span>Renan Marques
                         <br />Desenvolvedor Jr.</span>
-                    <a href="http://linkedin.com/in/renan-marques-615882a4"><img class="icone"
+                    <a href="http://linkedin.com/in/renan-marques-615882a4"><img class="icone-equipe"
                             src="./img/linkedin.png" /></a>
                 </div>
 
@@ -110,7 +124,12 @@
                     <img src="./img/renan_victor.jpeg">
                     <span>Renan Victor
                         <br />Desenvolvedor Jr.</span>
-                    <a href="#"><img class="icone" src="./img/linkedin.png" /></a>
+                    <a href="#"><img class="icone-equipe" src="./img/linkedin.png" /></a>
+                </div>
+            </div>
+            <div id="assinatura-footer" class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <span id="ano"></span>
                 </div>
             </div>
         </div>
