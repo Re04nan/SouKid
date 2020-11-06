@@ -85,7 +85,7 @@ if ($result && $result->num_rows != 0) {
         ?>
     <div class="container table-wrapper-scroll-y my-custom-scrollbar">
         <form action="#" method="POST">
-            <input type="text" name="busca" placeholder="Procurar &#xF002;" value="" tabindex="1" autocomplete="off">
+            <input type="text" name="busca" placeholder="Procurar por nome do aluno &#xF002;" value="" tabindex="1" autocomplete="off">
             <input type="submit" value="Buscar">
             <label id="cadAluno"><a href="insert_cadastro.php">Cadastrar Aluno</a></label>
         </form>
