@@ -14,7 +14,7 @@
 
 **Créditos:**
 
-| [<img src="https://avatars2.githubusercontent.com/u/72765823?s=460&u=8493c8a487a967326992141ab03fc6109b73ec13&v=4" width=115 > <br> <sub> Amanda Regina </sub>](https://github.com/amandareginas)
+[<img src="https://avatars2.githubusercontent.com/u/72765823?s=460&u=8493c8a487a967326992141ab03fc6109b73ec13&v=4" width=115 > <br> <sub> Amanda Regina </sub>](https://github.com/amandareginas)
 | --- |
 [<img src="https://sinest.herokuapp.com/static/images/daniela-lopes.jpg" width=115 > <br> <sub> Daniela Lopes </sub>](https://github.com/daniblopess)
 [<img src="https://avatars2.githubusercontent.com/u/72178423?s=460&u=7e68e1caf6dea700cdebea84d52a2b3b4e2172d1&v=4" width=115 > <br> <sub> Isaque Gabriel </sub>](https://github.com/IsaqueGabriel1)
