@@ -15,9 +15,8 @@
 **Créditos:**
 
 [<img src="https://avatars2.githubusercontent.com/u/72765823?s=460&u=8493c8a487a967326992141ab03fc6109b73ec13&v=4" width=115 > <br> <sub> Amanda Regina </sub>](https://github.com/amandareginas) |
-| :---: |
-[<img src="https://sinest.herokuapp.com/static/images/daniela-lopes.jpg" width=115 > <br> <sub> Daniela Lopes </sub>](https://github.com/daniblopess) |
-| :---: |
+| --- |
+[<img src="https://sinest.herokuapp.com/static/images/daniela-lopes.jpg" width=115 > <br> <sub> Daniela Lopes </sub>](https://github.com/daniblopess) 
 
 [![Badge](https://img.shields.io/static/v1?label=Instagram&message=Designer%20by%20Hellen%20Ruthe&color=ff69b4&style=for-the-badge&logo=INSTAGRAM)](https://www.instagram.com/ruth_cherrys/)
 
