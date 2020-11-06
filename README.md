@@ -9,6 +9,10 @@
 
 
 
+
+<hr>
+
 **Créditos:**
+![Badge](https://img.shields.io/static/v1?label=react&message=Designer%20by%20Hellen%20Ruthe&color=ff69b4&style=for-the-badge&logo=INSTAGRAM)
 
 [<img src="https://img.shields.io/badge/Designer%20by%20%40ruth__cherrys-ff69b4">](https://www.instagram.com/ruth_cherrys/)
