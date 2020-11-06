@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+body{
+    height: 1100px;
+    background: linear-gradient(150deg, #5600e9 0%, #b06cca 100%);
+}
+
+#formulario{
+    width: 350px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    font: 500 20px Roboto, sans-serif;
+    border:0;
+    background: linear-gradient(150deg, #9861f7 0%, #a87af8 100%);
+    border-radius: 5px;
+}
+
+input::placeholder{
+    color: white;
+}
+#radio{
+    color: white;
+}
+#login{
+    font-size: 70px;
+    background: linear-gradient(150deg, #9861f7 0%, #7333e2 100%);
+    border: 0;
+}
+#texto{
+    font-size: 25px;
+}
+.text{
+    font-size: 18px;
+}
+
+#botao{
+    width: 100%;
+    border: 0;
+    background: #9861f7 ;
+}
+
+#event a{
+    background: #a749ff;
+    color:white;
+    font-size: 20px;
+}
+#espaco1{
+    height: 50px;
+}
+#espaco{
+    height: 30px;
+}
+#borda{
+    border-top: solid;
+    border-bottom: solid;
+    border-width: 1px;
+    border-color:white;
+}
+
+#squad{
+    color: white;
+}

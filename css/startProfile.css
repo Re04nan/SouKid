@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font: 500 15px Roboto, sans-serif;
+}
+/* Tons de Pele*/
+.tonalidades-pele {
+    width: 44px;
+    height: 44px;
+    border-radius: 4px;
+    box-shadow: 0 0 2px 2.5px rgba(187, 154, 154, 0.747);
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    align-content: space-between;
+    justify-content: space-between;
+    cursor: pointer;
+}
+p {
+    font: 500 20px Roboto, sans-serif;
+}
+.mark-check {
+    background-size: 44px 44px;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 30%;
+    top: 10%;
+}
+/* Personagem */
+.painel-avatar {
+    background-color: #5600e9;
+    background: linear-gradient(150deg, #5600e9 0%, #b06cca 100%);
+    height: 100vh !important;
+}
+.nome-avatar h1 {
+    font-size: 30px;
+    color: white;
+}
+#back00,
+#back01{
+    width: 20vw;
+    height: auto;
+    position: absolute;
+    z-index: 1;
+}
+#img-avatar,
+#img-avatar2 {
+    width: 20vw;
+    height: auto;
+}
+#back00:hover {
+    border-radius: 25%;
+    cursor: pointer;
+    animation: animate 5s linear infinite;
+}
+#back01:hover {
+    border-radius: 25%;
+    cursor: pointer;
+    animation: animate2 5s linear infinite;
+}
+@keyframes animate {
+    18.1%,
+    20.1%,
+    30%,
+    50%,
+    60.1%,
+    65%,
+    80.1%,
+    90%,
+    92.1%,
+    100% {
+        box-shadow: 0 0 10px #5600e9, 0 0 20px #5600e9, 0 0 40px #5600e9, 0 0 80px #5600e9, 0 0 160px #5600e9;
+    }
+}
+@keyframes animate2 {
+    18.1%,
+    20.1%,
+    30%,
+    50%,
+    60.1%,
+    65%,
+    80.1%,
+    90%,
+    92.1%,
+    100% {
+        box-shadow: 0 0 10px #5600e9, 0 0 20px #5600e9, 0 0 40px #5600e9, 0 0 80px #5600e9, 0 0 160px #5600e9;
+    }
+}
+
+@media (max-width: 320px) {
+    .tonalidades-pele {
+        width: 44px;
+        height: 44px;
+        border-radius: 4px;
+        display: flex;
+        flex-direction: row;
+        justify-items: center;
+        align-items: center;
+        align-content: space-between;
+        justify-content: space-between;
+    }
+}
+@media (max-width: 480px) {
+    .tonalidades-pele {
+        width: 44px;
+        height: 44px;
+        border-radius: 4px;
+        display: flex;
+        flex-direction: row;
+        justify-items: center;
+        align-items: center;
+        align-content: space-between;
+        justify-content: space-between;
+    }
+}
+@media (max-width: 600px) {
+    .tonalidades-pele {
+        width: 44px;
+        height: 44px;
+        border-radius: 4px;
+        display: flex;
+        flex-direction: row;
+        justify-items: center;
+        align-items: center;
+        align-content: space-between;
+        justify-content: space-between;
+    }
+}

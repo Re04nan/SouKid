@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+.campo-cadastro {
+	background-color: #a749ff;
+}
+
+p {
+	padding-bottom: 16px;
+	font-size: 35px;
+	text-align: center;
+	font: 700 22px Roboto, sans-serif;
+}
+
+.box-txt {
+	width: 380px;
+	height: 33px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+
+label {
+	font-size: 15px;
+	padding: 6px;
+	font: 500 18px Roboto, sans-serif;
+}
+
+#btn_enviar {
+	width: 380px;
+	height: 35px;
+	border: none;
+	color: white;
+	background-color: #4B0082;
+	border-radius: 4px;
+	cursor: pointer;
+	font-weight: bolder;
+}
+
+a {
+	text-align: center;
+	color: blue;
+	margin-top: 16px;
+}
