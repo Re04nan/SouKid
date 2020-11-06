@@ -28,8 +28,9 @@
             </div>
             <div class="row justify-content-center">
                 <div id="texto" class="col-sm-6 col-md-12 text-center text-white mt-2">
-                    <p>O seu nome de usuário e senha</p>
-                    <p>foram fornecidas pela escola.</p>
+                    <p>Seu nome de usuário e senha</p>
+                    
+                    <p>foram fornecidos pela escola.</p>
                 </div>
             </div>
         </header>
@@ -51,7 +52,7 @@
                     <br>
                     <div class="text-center">
                         <div class="text-white mt-4">
-                            <p class="text"><b> Esqueceu sua senha? Cliqui <a class="text-white" href="#">aqui</a></b>
+                            <p class="text"><b> Esqueceu sua senha? Clique <a class="text-white" href="#">aqui</a></b>
                             </p>
                         </div>
                         <div class="text-center">
