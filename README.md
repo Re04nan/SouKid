@@ -5,7 +5,7 @@
 <img src ="https://github.com/Re04nan/SouKid/blob/master/soukidlogo.png" width="200px" alt="logo Sou Kid" title="logo Sou Kid">
 </div>
 </br>
-<p align="center" font-size="20px"> 
+<p align="justify" font-size="22px"> 
  <b>Sou Kid</b> é um projeto realizado em grupo, onde irá tratar do assunto de Educação Sexual para crianças com uma abordagem totalmente voltada a esse público.
 </>
 
@@ -13,7 +13,7 @@
 
 <hr>
 
-### <img src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg" width="20px" alt="Github" title="Github"> Desenvolvedores: 
+### :octocat: Desenvolvedores: 
 |[<img src="https://avatars2.githubusercontent.com/u/72765823?s=460&u=8493c8a487a967326992141ab03fc6109b73ec13&v=4" width=115 > <br> <sub> Amanda Regina </sub>](https://github.com/amandareginas)|[<img src="https://sinest.herokuapp.com/static/images/daniela-lopes.jpg" width=115 > <br> <sub> Daniela Lopes </sub>](https://github.com/daniblopess)|[<img src="https://avatars2.githubusercontent.com/u/72178423?s=460&u=7e68e1caf6dea700cdebea84d52a2b3b4e2172d1&v=4" width=115 > <br> <sub> Isaque Gabriel </sub>](https://github.com/IsaqueGabriel1)|[<img src="https://avatars3.githubusercontent.com/u/72779749?s=460&u=2818d668266e971334adfc4a3bd091f00b44e084&v=4" width=115 > <br> <sub> Leandro de Souza </sub>](https://github.com/LeandroApSouza)|[<img src="https://avatars1.githubusercontent.com/u/19680010?s=460&u=156e9db04ea69e8822e4ead8e806434df92755f4&v=4" width=115 > <br> <sub> Renan Marques </sub>](https://github.com/Re04nan)|[<img src="https://avatars2.githubusercontent.com/u/66511600?s=460&u=c4d9183405dc22919b9b22581504468c1b8d4482&v=4" width=115 > <br> <sub> Renan Victor </sub>](https://github.com/Renaan00)|
 | -------- | -------- | -------- |-------- | -------- | -------- |
 
