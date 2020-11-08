@@ -12,7 +12,7 @@
 ## Especificações Técnicas: 
 
 ![Badge](https://img.shields.io/static/v1?labelColor=black&label&message=Database%20MySQL&color=blue&style=for-the-badge&logo=MySQL)
-
+![Badge](https://img.shields.io/static/v1?labelColor=gray&label&message=Framework%20JQuery&color=gray&style=for-the-badge&logo=JQuery)
 ![Badge](https://img.shields.io/static/v1?labelColor=purple&label&message=Framework%20Bootstrap&color=purple&style=for-the-badge&logo=Bootstrap)
 
 ## :outbox_tray: Deploy da Aplicação com infinityfree:
