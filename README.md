@@ -8,6 +8,16 @@
 <p align="justify" font-size="22px"> 
  <b>Sou Kid</b> é um projeto realizado em grupo, onde irá tratar do assunto de Educação Sexual para crianças com uma abordagem totalmente voltada a esse público.
 </>
+ 
+## Ferramentas utilizadas:
+
+- [x] Trello - Gerênciamento de etapas do projeto.
+- [x] Marvel - Elaboração de telas e prototipagem.
+- [x] Canvas - Elaboração de telas e rascunhos sobre o tema abordado.
+- [x] Github - Versionamento do código e projeto em grupo.
+- [x] VsCode - IDE utilizada para programação dos códigos.
+- [x] Google Fonts - Fonte utilizada: Reboto.
+- [x] Wamp/Xamp - Testes e desenvolvimento em servidor local.
 
 ## Especificações Técnicas: 
 
