@@ -13,12 +13,14 @@
 
 <img src="http://www.agenda2030.com.br/static/home/images/ods_icons/16.png" width="40px" alt="ODS16" title="ONU|ODS16">
 
-- ONU | ODS 16 
+- <a href="https://brasil.un.org/pt-br/sdgs/16">ONU | ODS 16</a> 
   - Pauta abordada:
-    - Acabar com o abuso, exploração, tráfico e todas as formas de violência e tortura contra as crianças.
-- Eu Me Protejo
-- Defenda-se
-
+    - 16.2 Acabar com o abuso, exploração, tráfico e todas as formas de violência e tortura contra as crianças.
+- <a href="https://www.eumeprotejo.com/">Eu Me Protejo</a>
+  - Eu Me Protejo aborda o mesmo assunto que o Sou Kid, a diferença é que queremos passar toda a orientação de uma forma mais lúdica para a criança, acreditamos que dessa forma elas aprendem melhor.
+- <a href="https://defenda-se.com/">Defenda-se</a>
+  - Defenda-se, também aborda o mesmo tema que o Sou Kid, eles abordam o assunto por meio de vídeos educativos.
+  
 ## Entrevistas:
 
 - Psicóloga - Nayara Franco
