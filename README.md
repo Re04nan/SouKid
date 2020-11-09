@@ -8,13 +8,32 @@
 <p align="justify" font-size="22px"> 
  <b>Sou Kid</b> é um projeto realizado em grupo, onde irá tratar do assunto de Educação Sexual para crianças com uma abordagem totalmente voltada a esse público.
 </>
- 
+
+## Pesquisas:
+
+<img src="http://www.agenda2030.com.br/static/home/images/ods_icons/16.png" width="40px" alt="ODS16" title="ONU|ODS16">
+
+- ONU | ODS 16 
+  - Pauta abordada:
+    - Acabar com o abuso, exploração, tráfico e todas as formas de violência e tortura contra as crianças.
+- Eu Me Protejo
+- Defenda-se
+
+## Entrevistas:
+
+- Psicóloga - Nayara Franco
+- Marketing - Francisco Neto
+
+<hr>
+
 ## Ferramentas utilizadas:
 
 - [x] Trello - Gerênciamento de etapas do projeto.
 - [x] Marvel - Elaboração de telas e prototipagem.
 - [x] Canvas - Elaboração de telas e rascunhos sobre o tema abordado.
 - [x] Github - Versionamento do código e projeto em grupo.
+- [x] Zoom - Vídeo conferência em grupo.
+- [x] Hangouts - Vídeo conferência em grupo.
 - [x] VsCode - IDE utilizada para programação dos códigos.
 - [x] Google Fonts - Fonte utilizada: Reboto.
 - [x] Wamp/Xamp - Testes e desenvolvimento em servidor local.
