@@ -25,6 +25,7 @@
 
 - Psicóloga - Nayara Franco
 - Marketing - Francisco Neto
+- Pedagoga - Priscila Souza
 
 <hr>
 
