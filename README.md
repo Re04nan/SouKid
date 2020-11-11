@@ -49,7 +49,7 @@
 
 ## :outbox_tray: Deploy da Aplicação com infinityfree:
 
-http://soukid.infinityfreeapp.com/SouKid-master/homepage.php
+http://soukid.infinityfreeapp.com/SouKid-master/index.php
 
 <hr>
 
